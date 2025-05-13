@@ -1,11 +1,11 @@
 #!/usr/bin/env python3
 # Instalar dependências (se necessário)
-!pip install moviepy gtts pillow
-!sudo apt-get install fonts-dejavu
-from moviepy.editor import *
-from gtts import gTTS
-from PIL import Image, ImageDraw, ImageFont, ImageColor, ImageFilter
-import os
+#!pip install moviepy gtts pillow
+#!sudo apt-get install fonts-dejavu
+#from moviepy.editor import *
+#from gtts import gTTS
+#from PIL import Image, ImageDraw, ImageFont, ImageColor, ImageFilter
+#import os
 
 # ============== CONFIGURAÇÕES ==============
 # Caminhos (ajuste conforme seu Google Drive)
